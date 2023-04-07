@@ -64,3 +64,9 @@ def find_factorial(num=0):
 # print(result)
 
 # And yes you can add more functions of you want
+
+# The normal step after:
+# Create the virtual environment
+# Activate it
+# Install the required package
+# pip list => show us all the installed packages
